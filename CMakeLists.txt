@@ -1,0 +1,9 @@
+add_executable(
+        archiver
+        archiver.cpp
+        Reader.cpp
+        Writer.cpp
+        Huffman.cpp
+        MyPriorityQueue.h
+        Archivator.cpp
+)
